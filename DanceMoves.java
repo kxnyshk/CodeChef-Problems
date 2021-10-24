@@ -3,6 +3,8 @@ import java.util.Scanner;
 public class DanceMoves {
     public static void main(String[] args){
     
+        // Problem statement Link: https://www.codechef.com/SNCK1A21/problems/DANCEMOVES
+
         Scanner scan = new Scanner(System.in);
         int testCases = scan.nextInt();             // Testcases
 

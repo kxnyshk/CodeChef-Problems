@@ -3,6 +3,8 @@ import java.util.Scanner;
 public class RoundRobinRanks {
     public static void main(String[] args){
     
+        // Problem Statement Link: https://www.codechef.com/SNCK1A21/problems/RRR
+        
         Scanner scan = new Scanner(System.in);
         int testCases = scan.nextInt();             // Testcases
         
